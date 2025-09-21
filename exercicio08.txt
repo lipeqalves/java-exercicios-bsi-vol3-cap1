@@ -1,0 +1,4 @@
+O objeto que pode ser capturado é o objeto da classe Fornecedor
+que estava anteriormente associado ao produto1. Quando a linha produto1.fornecedor = null; é executada,
+o objeto Fornecedor perde uma referência. No caso, o objeto Fornecedor associado ao produto1 não esta mais sendo referenciado por
+nenhuma outra instância de objeto ou variável identificadora, ele é marcado como lixo e pode ter seus recursos liberados pelo coletor de lixo

@@ -38,7 +38,7 @@ atributo fornecedor (do tipo Fornecedor) na classe Produto.
 
 **Resultado:**
 
-![Exemplo de saída do Exercício 03](imagens/Cap1exercicio03.png)
+![Exemplo de saída do Exercício 03](imagens/Cap1Exercicio03.png)
 
 ---
 

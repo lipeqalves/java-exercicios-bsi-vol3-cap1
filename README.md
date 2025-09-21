@@ -27,7 +27,7 @@ O material didático, escrito por Fernando Trinta, publicado pela UFRPE, explora
 
 **Resultado:**
 
-![Exemplo de saída do Exercício 02](imagens/cap1Exercicio02.png)
+![Exemplo de saída do Exercício 02](imagens/Cap1Exercicio02.png)
 
 ---
 
@@ -38,7 +38,7 @@ atributo fornecedor (do tipo Fornecedor) na classe Produto.
 
 **Resultado:**
 
-![Exemplo de saída do Exercício 03](imagens/cap1exercicio03.png)
+![Exemplo de saída do Exercício 03](imagens/Cap1exercicio03.png)
 
 ---
 
@@ -50,7 +50,7 @@ passado deve aumentar o valor do produto.
 
 **Resultado:**
 
-![Exemplo de saída do Exercício 04](imagens/cap1Exercicio04.png)
+![Exemplo de saída do Exercício 04](imagens/Cap1Exercicio04.png)
 
 ---
 
@@ -64,7 +64,7 @@ o fornecedor deste produto seja uma referência nula.
 
 **Resultado:**
 
-![Exemplo de saída do Exercício 05](imagens/cap1Exercicio05.png)
+![Exemplo de saída do Exercício 05](imagens/Cap1Exercicio05.png)
 
 ---
 
@@ -90,9 +90,9 @@ ConjuntoProdutos.
 
 **Resultado:**
 
-![Exemplo de saída do Exercício 07](imagens/cap1Exercicio09.png)
+![Exemplo de saída do Exercício 07](imagens/Cap1Exercicio09.png)
 
-![Exemplo de saída do Exercício 07](imagens/cap1Exercicio10.png)
+![Exemplo de saída do Exercício 07](imagens/Cap1Exercicio10.png)
 
 ---
 

@@ -4,6 +4,9 @@
  *
  * 6. Modifique a classe TesteProduto e conceda um aumento de 15% nos dois
  * produtos. Utilize o método atualizarPreco para esta operação.
+ *
+ * 7. Modifique a classe TesteProduto e após a criação do produto1, faça com que
+ * o fornecedor deste produto seja uma referência nula.
  */
 public class TestaProduto {
     public static void main(String[] args) {
@@ -22,7 +25,7 @@ public class TestaProduto {
         produto1.codigo = 1;
         produto1.nome = "TV LCD";
         produto1.valor = 3500f;
-        produto1.fornecedor = fornecedor1;
+        produto1.fornecedor = null;
         produto1.atualizarPreco(15);
 
         produto2.codigo = 2;

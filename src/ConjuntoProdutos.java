@@ -32,10 +32,6 @@ public class ConjuntoProdutos {
             produtos[indice] = produto;
             indice = indice + 1;
             System.out.println("Cadastro realizado com sucesso");
-           /*  System.out.println("Produto   | " + " Codigo | " + " Valor | " + " Fornecdido | " + " CNPJ    | ");
-        System.out.println("" + produto.nome + "    |" + produto.codigo + "        |"
-                + produto.valor + "  |  " + produto.fornecedor.nome + "   | "
-                + produto.fornecedor.cnpj + "  |");*/
         }else{
             System.out.println("Produto já cadastrada");
         }

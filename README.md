@@ -90,9 +90,9 @@ ConjuntoProdutos.
 
 **Resultado:**
 
-![Exemplo de saída do Exercício 07](imagens/Cap1Exercicio09.png)
+![Exemplo de saída do Exercício 09](imagens/Cap1Exercio09.png)
 
-![Exemplo de saída do Exercício 07](imagens/Cap1Exercicio10.png)
+![Exemplo de saída do Exercício 10](imagens/Cap1Exercio10.png)
 
 ---
 
